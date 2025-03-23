@@ -1,6 +1,6 @@
 # UYK5K
 
-Ini adalah virus yang akan mendelete satu file system yang merusak windows
+Ini adalah virus yang akan mendelete satu file system yang dan akan merusak windows
 
 oleh SpertonBalls2
 
